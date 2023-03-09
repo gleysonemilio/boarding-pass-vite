@@ -1,6 +1,7 @@
 {
   "name": "boarding-pass-vite",
   "private": true,
+  "homepage": "boarding-pass-vite/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
